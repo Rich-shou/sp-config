@@ -5,11 +5,11 @@ public class Test {
 		String a= "12345";
 		System.out.println(a);
 		System.out.println("aaaaa");
+		int c=10;
 		
 		System.out.println("ccccccccccccccccc");
 		
 		
-		int c=10;
 		
 		
 	}
