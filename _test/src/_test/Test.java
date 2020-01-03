@@ -4,12 +4,7 @@ public class Test {
 	public static void main(String[] args) {
 		String a= "12345";
 		System.out.println(a);
-		System.out.println("aaaaa");
 		int c=10;
-		System.out.println("ccccccccccccccccc");
-		
-		
-		
-		
+		System.out.println("aaaaa");
 	}
 }
