@@ -1,6 +1,9 @@
 spring:
   application:
     name: item-service
+  cioud:
+    config:
+      override-none: true 
     
 server:
   port: 8001    

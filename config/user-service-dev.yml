@@ -5,7 +5,9 @@ sp:
 spring:
   application:
     name: user-service
-    
+  cioud:
+    config:
+      override-none: true  
 server:
   port: 8101
 eureka:
