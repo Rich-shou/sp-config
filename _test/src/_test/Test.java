@@ -6,5 +6,7 @@ public class Test {
 		System.out.println(a);
 		int c=10;
 		System.out.println("aaaaa");
+		
+		int d= 12;
 	}
 }
