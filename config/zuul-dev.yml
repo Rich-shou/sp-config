@@ -1,7 +1,7 @@
 spring:
   application:
     name: zuul
-  cioud:
+  cloud:
     config:
       override-none: true 
     inetutils:

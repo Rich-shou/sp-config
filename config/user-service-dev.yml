@@ -5,7 +5,7 @@ sp:
 spring:
   application:
     name: user-service
-  cioud:
+  cloud:
     config:
       override-none: true 
     inetutils:
