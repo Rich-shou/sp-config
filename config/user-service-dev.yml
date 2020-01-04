@@ -29,8 +29,3 @@ eureka:
     prefer-ip-address: true
     instance-id: ${spring.cloud.client.ip-address}:${spring.application.name}:${server.port}      
       
-management:
-  endpoints:
-    web:
-      exposure:
-        include: refresh      
